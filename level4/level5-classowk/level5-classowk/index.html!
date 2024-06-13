@@ -1,0 +1,28 @@
+<html> 
+    <head>
+    </head>
+<title>SingingWebsite.Ge</title>
+    <body>
+        <h1>ჩემი საყვარელი სიმღერების შესახებ</h1>
+
+        <!-- ordered list -->
+        <ul>
+            <!-- list item -->
+            <li>
+                <i> <p>Alive And Awake სკილეტიდან</p> </i>
+                
+                <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_659009302a04ce1125315508_659026d92eb5c11b9671d92d/scale_1200"
+            </li>
+
+            <li>
+                <i> <p>The Messengers</p> <i>
+                <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_659009302a04ce1125315508_659026d92eb5c11b9671d92d/scale_1200"
+            </li>
+
+            <li>
+                <p>Conjuring</p>
+                <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_659009302a04ce1125315508_659026d92eb5c11b9671d92d/scale_1200"
+            </li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+name = "tata"
+surname = "sadagashvili"
+numbers = 10
+number2 = 10.0
+x = 10
+y = 10
+dog_name = 'vini'
+breed = "i dont know"
+favorite_color = "black"
+language = "georgian"
